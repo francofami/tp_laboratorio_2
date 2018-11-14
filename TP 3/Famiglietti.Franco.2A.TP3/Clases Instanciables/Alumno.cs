@@ -40,8 +40,9 @@ namespace Clases_Instanciables
         {
             StringBuilder retorno = new StringBuilder();
 
-            retorno.AppendLine(base.MostrarDatos());
-            retorno.AppendLine(this.ToString());
+            retorno.AppendLine("ESTADO DE CUENTA: " + this.estadoCuenta);
+            retorno.AppendLine(base.MostrarDatos() + this.ParticiparEnClase());
+            retorno.AppendLine("<---------------------------------------------------->");
 
             return retorno.ToString();
         }
@@ -80,15 +81,27 @@ namespace Clases_Instanciables
         }
 
         /// <summary>
-        /// Crea string con los datos de Alumno
+        /// Crea string con la clase en la que participa el alumno
         /// </summary>
-        /// <returns>String con los datos de Alumno</returns>
-        public string ToString()
+        /// <returns>string con la clase en la que participa el alumno</returns>
+        protected override string ParticiparEnClase()
         {
             StringBuilder retorno = new StringBuilder();
 
-            retorno.Append("Clase que toma: " + this.claseQueToma);
-            retorno.Append("Estado cuenta: " + this.estadoCuenta);
+            retorno.AppendLine("TOMA CLASES DE " + this.claseQueToma);
+
+            return retorno.ToString();
+        }
+
+        /// <summary>
+        /// Crea string con los datos de Alumno
+        /// </summary>
+        /// <returns>String con los datos de Alumno</returns>
+        public override string ToString()
+        {
+            StringBuilder retorno = new StringBuilder();
+
+            retorno.AppendLine(this.MostrarDatos());
 
             return retorno.ToString();
         }

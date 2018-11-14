@@ -34,7 +34,7 @@ namespace Clases_Instanciables
         {
             StringBuilder retorno = new StringBuilder();
 
-            retorno.AppendLine(this.ParticiparEnClase());
+            retorno.AppendLine(base.MostrarDatos() + this.ParticiparEnClase());
 
             return retorno.ToString();
         }
@@ -80,15 +80,16 @@ namespace Clases_Instanciables
         /// Crea un string con las clases que se dan en el dia
         /// </summary>
         /// <returns>Devuelve un string con las clases que se dan en el dia</returns>
-        protected string ParticiparEnClase()
+        protected override string ParticiparEnClase()
         {
             string retorno = "";
 
-            retorno += "CLASES DEL DÍA";
+            retorno += "CLASES DEL DÍA: \n";
 
             foreach (Universidad.EClases clase in this.clasesDelDia)
             {
                 retorno += clase.ToString();
+                retorno += "\n";
             }
 
             return retorno;
@@ -114,7 +115,7 @@ namespace Clases_Instanciables
         /// Hace publicos los datos del profesor
         /// </summary>
         /// <returns>Devuelve un string</returns>
-        public string ToString()
+        public override string ToString()
         {
             StringBuilder retorno = new StringBuilder();
 

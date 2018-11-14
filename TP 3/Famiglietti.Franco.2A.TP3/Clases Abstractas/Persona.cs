@@ -103,7 +103,7 @@ namespace EntidadesAbstractas
         /// Retorna un string con los datos de la persona
         /// </summary>
         /// <returns>Retorna un string con los datos de la persona</returns> 
-        public string ToString()
+        public override string ToString()
         {
             StringBuilder retorno = new StringBuilder();
 

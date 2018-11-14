@@ -75,12 +75,7 @@ namespace EntidadesAbstractas
         /// 
         /// </summary>
         /// <returns></returns>
-        protected string ParticiparEnClase()
-        {
-            string retorno = "";
-
-            return retorno;
-        }
+        protected abstract string ParticiparEnClase();
 
         public Universitario()
         {

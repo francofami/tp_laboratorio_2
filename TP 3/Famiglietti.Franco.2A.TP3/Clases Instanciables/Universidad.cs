@@ -317,7 +317,7 @@ namespace Clases_Instanciables
         /// Hace publico el metodo MostrarDatos
         /// </summary>
         /// <returns>Un string con el contenido de MostrarDatos</returns>
-        public string ToString()
+        public override string ToString()
         {
             string retorno = "";
 

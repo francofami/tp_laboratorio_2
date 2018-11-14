@@ -183,13 +183,12 @@ namespace Clases_Instanciables
         /// Pasa los datos de la jornada a un string
         /// </summary>
         /// <returns>Un string con los datos de la jornada</returns>
-        public string ToString()
+        public override string ToString()
         {
             StringBuilder retorno = new StringBuilder();
 
-            retorno.AppendLine("Clase: " + this.clase);
-            retorno.AppendLine("Profesor: " + this.instructor);
-            retorno.AppendLine("LISTA DE ALUMNOS: ");
+            retorno.AppendLine("Clase de " + this.clase + " POR " + this.instructor);
+            retorno.AppendLine("ALUMNOS: ");
 
             foreach (Alumno a in this.alumnos)
             {
