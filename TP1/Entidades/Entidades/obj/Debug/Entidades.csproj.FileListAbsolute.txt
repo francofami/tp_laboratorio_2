@@ -1,0 +1,12 @@
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Usuarios\Franco\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP 1\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\Usuarios\Franco\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP 1\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Usuarios\Franco\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Usuarios\Franco\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Usuarios\Franco\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\Usuarios\Franco\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP 1\Entidades\Entidades\obj\Debug\Entidades.pdb
