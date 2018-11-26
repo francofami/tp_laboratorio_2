@@ -1,0 +1,52 @@
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\bin\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Franco\Desktop\TP 4\TP 4\WindowsApp1\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\bin\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Franco\Desktop\Bustabit\TP 4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\UnitTestProject1.dll
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\UnitTestProject1.pdb
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\MainCorreo\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
