@@ -16,6 +16,11 @@ namespace Entidades
         static SqlCommand comando;
         static SqlConnection conexion;
 
+        /// <summary>
+        /// Conecta y escribe los datos de un Paquete en la base de datos
+        /// </summary>
+        /// <param name="p">Paquete a escribir</param>
+        /// <returns>Devolverá true si se puedo escribir, caso contrario devolverá false.</returns>
         public static bool Insertar(Paquete p)
         {
             //PaqueteDAO.conexion = new SqlConnection(@"Data Source=DESKTOP-FL4TN9S\SQLEXPRESS;Initial Catalog=correo-sp-2017;Integrated Security=True");

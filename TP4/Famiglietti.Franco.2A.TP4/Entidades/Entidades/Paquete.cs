@@ -60,6 +60,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Hace que el paquete cambie de estado y llama a funcion que agrega sus datos en la base de datos
+        /// </summary>
         public void MockCicloDeVida()
         {
             while(this.estado != EEstado.Entregado)
@@ -86,18 +89,28 @@ namespace Entidades
             PaqueteDAO.Insertar(this);
         }
 
+        /// <summary>
+        /// Sobreescribe el método de la interfaz IMostrar. Muestra los datos del paquete recibido.
+        /// </summary>
+        /// <param name="elemento">Paquete a mostrar</param>
+        /// <returns>Devuelve string con los datos del paquete.</returns>
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
+            Paquete p = new Paquete(((Paquete)elemento).direccionEntrega, ((Paquete)elemento).trackingID);
+
             string retorno = "";
 
-            foreach (Paquete p in ((Correo)elemento).Paquetes)
-            {
-                retorno += string.Format("{0} para {1}\n", p.trackingID, p.direccionEntrega);
-            }
+            retorno += string.Format("{0} para {1}\n", p.trackingID, p.direccionEntrega);
 
             return retorno;
         }
 
+        /// <summary>
+        /// Dos Paquetes son iguales si tienen el mismo trackingID
+        /// </summary>
+        /// <param name="p1">Paquete a comparar</param>
+        /// <param name="p2">Paquete a comparar</param>
+        /// <returns>True si son iguales, false si no lo son.</returns>
         public static bool operator ==(Paquete p1, Paquete p2)
         {
             bool retorno = false;
@@ -110,6 +123,12 @@ namespace Entidades
             return retorno;
         }
 
+        /// <summary>
+        /// Dos Paquetes son iguales si tienen distinto trackingID
+        /// </summary>
+        /// <param name="p1">>Paquete a comparar</param>
+        /// <param name="p2">>Paquete a comparar</param>
+        /// <returns>True si son distintos, false si no lo son.</returns>
         public static bool operator !=(Paquete p1, Paquete p2)
         {
             bool retorno = false;
@@ -119,12 +138,21 @@ namespace Entidades
             return retorno;
         }
 
+        /// <summary>
+        /// Constructor de clase parametrizado.
+        /// </summary>
+        /// <param name="direccionEntrega">La direccion de entrega</param>
+        /// <param name="trackingID">El trackingID</param>
         public Paquete(string direccionEntrega, string trackingID)
         {
             this.direccionEntrega = direccionEntrega;
             this.trackingID = trackingID;
         }
 
+        /// <summary>
+        /// Muestra los datos del Paquete a excepción de su estado.
+        /// </summary>
+        /// <returns>Un string con los datos del paquete.</returns>
         public override string ToString()
         {
             StringBuilder retorno = new StringBuilder();

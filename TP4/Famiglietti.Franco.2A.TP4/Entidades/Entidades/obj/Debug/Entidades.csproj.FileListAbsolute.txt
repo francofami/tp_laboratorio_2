@@ -19,3 +19,10 @@ C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\Entidades\E
 C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\Entidades\Entidades\obj\Debug\ClassLibrary1.dll
 C:\Users\Franco\Desktop\Airdrops\Nueva carpeta\Famiglietti.Franco.2A\Entidades\Entidades\obj\Debug\ClassLibrary1.pdb
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP4\Famiglietti.Franco.2A.TP4\Entidades\Entidades\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP4\Famiglietti.Franco.2A.TP4\Entidades\Entidades\bin\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP4\Famiglietti.Franco.2A.TP4\Entidades\Entidades\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP4\Famiglietti.Franco.2A.TP4\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP4\Famiglietti.Franco.2A.TP4\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP4\Famiglietti.Franco.2A.TP4\Entidades\Entidades\obj\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP4\Famiglietti.Franco.2A.TP4\Entidades\Entidades\obj\Debug\ClassLibrary1.pdb
