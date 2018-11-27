@@ -28,3 +28,13 @@ C:\Users\Franco\Desktop\Clase 11\TP-02\TP-02\bin\Debug\Entidades.dll
 C:\Users\Franco\Desktop\Clase 11\TP-02\TP-02\bin\Debug\Entidades.pdb
 C:\Users\Franco\Desktop\Clase 11\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\Franco\Desktop\Clase 11\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\bin\Debug\TP-02.exe
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\obj\Debug\TP-02.exe
+C:\Users\Franco\Desktop\repotp\TP2\TP-02\obj\Debug\TP-02.pdb
