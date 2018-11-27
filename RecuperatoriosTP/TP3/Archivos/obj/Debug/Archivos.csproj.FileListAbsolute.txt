@@ -1,0 +1,9 @@
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\Archivos\obj\Debug\Archivos.pdb

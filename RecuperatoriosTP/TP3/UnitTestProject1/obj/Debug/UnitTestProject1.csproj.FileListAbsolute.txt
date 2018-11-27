@@ -1,0 +1,25 @@
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Archivos.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Clases Abstractas.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Clases Instanciables.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Excepciones.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Archivos.pdb
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Clases Abstractas.pdb
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Clases Instanciables.pdb
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Excepciones.pdb
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Franco\Desktop\TP 3\Famiglietti.Franco.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
